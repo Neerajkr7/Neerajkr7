@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
 <h3 align="center">A fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **E-commerce project by using Vue.js**
-
-- 🌱 I’m currently learning **Vue.js**
-
-- 👯 I’m looking to collaborate on **a React project**
-
 - 💬 Ask me about **React.js,Javascript**
 
 - 📫 How to reach me **neerajrj66@gmail.com**
